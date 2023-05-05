@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Study Management System**
 
-- 🌱 I’m currently learning **Node.js,Kotlin**
+- 🌱 I’m currently learning **PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashpatel002?tab=repositories](https://github.com/yashpatel002?tab=repositories)
 
